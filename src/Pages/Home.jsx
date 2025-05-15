@@ -10,7 +10,7 @@ function Home() {
         <div className="w-full lg:w-1/2 flex justify-center">
           <div className="flex flex-col items-center lg:items-start text-center lg:text-left">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl text-text-primary-dark font-bold">
-              Achintya 
+              Achintya Narula
             </h1>
             <p className="mt-4 max-w-md text-text-secondary-dark text-sm sm:text-base">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
